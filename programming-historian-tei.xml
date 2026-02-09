@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> History of the Rise and Fall of the Roman Empire </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher> Tufts Intro to DH Spring 2026 </publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          https://archive.org/details/historyofdeclinex01gibb/page/n25/mode/2up
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <milestone unit="rule" rend="double"/>
+      <div type="Title" rend="centered">
+        <head rend="smallcaps"> THE </head>
+        <head> HISTORY </head>
+        <head rend="smallcaps"> OF THE </head>
+        <head> DECLINE AND FALL </head>
+        <head rend="smallcaps"> OF THE </head>
+        <head> ROMAN EMPIRE </head>
+      </div>
+      <milestone unit="rule"/>
+      <div type="Title" subtype="Chapter">
+        <l rend="center">CHAP. I.</l>
+        <l rend="center"> The Extent and Military Force of the Empire in the Age <lb /> of the
+          Antonines. </l>
+
+        <note place="margin" n="1"> CHAP. <lb /> I. <lb /> Introduction. <metamark function="brace"
+            rend="underbrace" />
+        </note>
+        <p>
+          <hi rend="dropcap">I</hi>N the ſecond century of the Chriſtian Æra, the empire of Rome
+          comprehended the faireſt part of the earth, and the moſt ci- <lb break="no" />
+          vilized portion of mankind. The frontiers of that extenſive <lb/>
+          monarchy were guarded by ancient renown and diſciplined valour. <lb/>
+          The gentle, but powerful influence of laws and manners had gra- <lb break="no" />
+          dually cemented the union of the provinces. Their peaceful in- <lb break="no" />
+          habitants enjoyed and abuſed the advantages of wealth and luxury. <lb/>
+          The image of a free conſtitution was preſerved with decent reverence: <lb/>
+          The Roman ſenate appeared to poſſeſs the ſovereign authority, and <lb/>
+          devolved on the emperors all the executive powers of government.
+          During a happy period of more than fourſcore years, the public <lb/>
+        </p>
+        <note place="margin">A. D. 98-- <lb/> 180.</note>
+         <p>
+          adminiſtration was conducted by the virtue and abilities of Nerva, <lb/>
+          Trajan, Hadrian, and the two Antonines. It is the deſign of this <lb/>
+          and of the two ſucceeding chapters, to deſcribe the proſperous con- <lb break="no"/>
+          dition of their empire; and afterwards, from the death of Marcus <lb/>
+        </p>
+        <fw type="runningFooter" place="bottom">
+          <seg rend="smallcaps">VOL. I.</seg>
+          <seg rend="sig">B</seg>
+          <seg rend="catch">Antoninus,</seg>
+        </fw>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
