@@ -1,1 +1,1 @@
-Digital Humanities Spring 2026
+# Digital Humanities Spring 2026
